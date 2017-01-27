@@ -1,0 +1,20 @@
+app_key: "sxcdoy0u8ewleqs"
+app_secret: <%= ENV ["APP_SECRET"] %>
+access_token: <%= ENV ["ACCESS_TOKEN_SECRET"] %>
+access_token_secret: "i3o59ijg3i2e9ia"
+user_id: "640740729"
+access_type: "app_folder"
+
+
+
+
+
+
+
+#app_key: "vvpdh7gxj6e0911"
+#app_secret: "6srfvv0enmin6qe"
+#access_token: "l9xgjh4d9uarw65b"
+#access_token_secret: "cvm6teow1l4plxx"
+#user_id: "640740729"
+#access_type: "app_folder"
+
