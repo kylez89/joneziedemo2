@@ -1,9 +1,18 @@
 app_key: "sxcdoy0u8ewleqs"
-app_secret: <%= ENV ["APP_SECRET"] %>
-access_token: <%= ENV ["ACCESS_TOKEN_SECRET"] %>
-access_token_secret: "i3o59ijg3i2e9ia"
+app_secret: <%= ENV["APP_SECRET"] %>
+access_token: "wv4rrlg2vcq2wa2d"
+access_token_secret: <%= EVN["ACCESS_TOKEN_SECRET"] %>
 user_id: "640740729"
 access_type: "app_folder"
+
+
+
+#app_key: "sxcdoy0u8ewleqs"
+#app_secret: <%= ENV ["APP_SECRET"] %>
+#access_token: <%= ENV ["ACCESS_TOKEN_SECRET"] %>
+#access_token_secret: "i3o59ijg3i2e9ia"
+#user_id: "640740729"
+#access_type: "app_folder"
 
 
 
